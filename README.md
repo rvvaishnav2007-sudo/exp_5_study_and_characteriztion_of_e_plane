@@ -54,8 +54,8 @@ The two main-guide arms are symmetrical with respect to the auxiliary arm. If po
 ---
 
 ## Observation
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/be5ddd6b-1031-4b33-bb00-bc7ee70e885f" />
 
-*(Include your own table relevant to the experiment.)*
 
 
 ---
